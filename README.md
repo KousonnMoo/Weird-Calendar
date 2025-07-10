@@ -9,10 +9,12 @@
 | 今日优惠七日极简版 | 每周每天的合并为同一条目 | 每日基本只有一条，不会挤占日程显示，但需要点开查看详细描述。 |  
 ## 使用方式
 复制下方对应的链接：
-- 今日优惠：https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0.ics
-- 今日优惠合并版：https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0%E5%90%88%E5%B9%B6%E7%89%88.ics
-- 今日优惠七日极简版：https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0%E4%B8%83%E6%97%A5%E6%9E%81%E7%AE%80%E7%89%88.ics  
-在日历中找到“添加订阅日历”等入口，将链接贴入文本框，等待加载。  
+- 今日优惠：[https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0.ics]
+- 今日优惠合并版：[https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0%E5%90%88%E5%B9%B6%E7%89%88.ics]
+- 今日优惠七日极简版：[https://github.com/KousonnMoo/Weird-Calendar/raw/main/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0/%E4%BB%8A%E6%97%A5%E4%BC%98%E6%83%A0%E4%B8%83%E6%97%A5%E6%9E%81%E7%AE%80%E7%89%88.ics]  
+  
+在日历App中找到“日历 > 日历管理 > 添加订阅日历”等入口，将链接贴入文本框，等待加载。  
+> 如果提示连接失败，或检查网络连接。那你要想想怎么来到的GitHub。
 ## 致谢
-欢迎提供建议，增加更多的优惠，或者移除已经不存在的优惠。  
-如有地区性的优惠或其他，可以定制。
+欢迎提供更多建议，帮我们增加更多的优惠路子，或者移除已经不存在的优惠。  
+> 如有地区性的优惠或其他，可以定制。
