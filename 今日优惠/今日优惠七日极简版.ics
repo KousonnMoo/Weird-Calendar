@@ -21,7 +21,7 @@ DTSTART;VALUE=DATE:20250106
 RRULE:FREQ=WEEKLY;BYDAY=MO
 DTEND;VALUE=DATE:20250107
 SUMMARY:周一今日优惠
-DESCRIPTION:麦当劳会员日\n罗森会员日\n一点点会员日\n喜茶免配送费\n奈雪免配送费\n乐乐茶免配送费\n14:00-17:00海底捞大学生六九折\n0:00-7:00海底捞大学生六九折
+DESCRIPTION:麦当劳会员日\n罗森会员日\n一点点会员日\n喜茶免配送费\n奈雪免配送费\n乐乐茶免配送费\n0:00-7:00海底捞大学生六九折\n14:00-17:00海底捞大学生六九折
 END:VEVENT
 
 BEGIN:VEVENT
@@ -31,7 +31,7 @@ DTSTART;VALUE=DATE:20250107
 RRULE:FREQ=WEEKLY;BYDAY=TU
 DTEND;VALUE=DATE:20250108
 SUMMARY:周二今日优惠
-DESCRIPTION:塔斯汀会员日\n必胜客会员日\n益禾堂会员日\n喜茶免费小料\nCOCO免费小料\n奈雪升杯日\n达美乐七折\n正新鸡排买一送一\n0:00-7:00海底捞大学生六九折
+DESCRIPTION:塔斯汀会员日\n必胜客会员日\n益禾堂会员日\n喜茶免费小料\nCOCO免费小料\n奈雪升杯日\n达美乐七折\n正新鸡排买一送一\n0:00-7:00海底捞大学生六九折\n14:00-17:00海底捞大学生六九折
 END:VEVENT
 
 BEGIN:VEVENT
@@ -41,7 +41,7 @@ DTSTART;VALUE=DATE:20250108
 RRULE:FREQ=WEEKLY;BYDAY=WE
 DTEND;VALUE=DATE:20250109
 SUMMARY:周三今日优惠
-DESCRIPTION:美团外卖节大额红包\n达美乐七折\n塔斯汀放飞星期三\n必胜客尖叫星期三\n蜜雪冰城满12-2元\n正新鸡排汉堡3个9.9元\n霸王茶姬免配送费\n茶百道会员免费升杯\n古茗部分产品打折\n沪上阿姨外卖日\n乐乐茶会员日\n0:00-7:00海底捞大学生六九折
+DESCRIPTION:美团外卖节大额红包\n达美乐七折\n塔斯汀放飞星期三\n必胜客尖叫星期三\n蜜雪冰城满12-2元\n正新鸡排汉堡3个9.9元\n霸王茶姬免配送费\n茶百道会员免费升杯\n古茗部分产品打折\n沪上阿姨外卖日\n乐乐茶会员日\n0:00-7:00海底捞大学生六九折\n14:00-17:00海底捞大学生六九折
 END:VEVENT
 
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DTSTART;VALUE=DATE:20250109
 RRULE:FREQ=WEEKLY;BYDAY=TH
 DTEND;VALUE=DATE:20250110
 SUMMARY:周四今日优惠
-DESCRIPTION:肯德基疯狂星期四\nCOCO升杯日\n茶百道会员日\n汉堡王周四国王疯\n0:00-7:00海底捞大学生六九折
+DESCRIPTION:肯德基疯狂星期四\nCOCO升杯日\n茶百道会员日\n汉堡王周四国王疯\n0:00-7:00海底捞大学生六九折\n14:00-17:00海底捞大学生六九折
 END:VEVENT
 
 BEGIN:VEVENT
@@ -60,8 +60,8 @@ UID:52a6c45b-312f-4c02-9f1e-4f2ea3303e49@kousonn.com
 DTSTART;VALUE=DATE:20250110
 RRULE:FREQ=WEEKLY;BYDAY=FR
 DTEND;VALUE=DATE:20250111
-SUMMARY:周五今日优惠\n0:00-7:00海底捞大学生六九折
-DESCRIPTION:华莱士会员日买一送一
+SUMMARY:周五今日优惠
+DESCRIPTION:华莱士会员日买一送一\n0:00-7:00海底捞大学生六九折\n14:00-17:00海底捞大学生六九折
 END:VEVENT
 
 BEGIN:VEVENT
